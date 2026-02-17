@@ -27,8 +27,11 @@ This pattern suggests a potential **credential compromise** resulting from repea
 
 ## 3. Log Evidence
 2026-02-17 09:10:01 AUTH_FAIL user=jdoe ip=203.0.113.10
+
 2026-02-17 09:10:05 AUTH_FAIL user=jdoe ip=203.0.113.10
+
 2026-02-17 09:10:11 AUTH_FAIL user=jdoe ip=203.0.113.10
+
 2026-02-17 09:10:20 LOGIN_SUCCESS user=jdoe ip=203.0.113.10
 
 ---
