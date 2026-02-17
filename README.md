@@ -40,6 +40,11 @@ Basic automation scripts for:
 - Log parsing
 - Simple detection analysis
 
+## 🔐 TryHackMe Writeups
+This section contains security-focused writeups based on TryHackMe labs and virtual machines.  
+The writeups are documented from a **defensive security perspective**, highlighting vulnerabilities, detection opportunities, and mitigation strategies relevant to SOC environments.
+
+
 ---
 
 ## 🧠 Skills Demonstrated
